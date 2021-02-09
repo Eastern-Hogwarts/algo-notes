@@ -163,5 +163,9 @@ public:
 
 ## Reference
 
+\[1\] https://oi-wiki.org/string/kmp/
+
+\[2\] https://zhuanlan.zhihu.com/p/83334559
+
 [1]: https://oi-wiki.org/string/kmp/
 [2]: https://zhuanlan.zhihu.com/p/83334559
